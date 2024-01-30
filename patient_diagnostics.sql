@@ -1,4 +1,4 @@
-use adsa;demo
+use adsa;
 
 -- 1. List the top 5 diagnoses in the dataset, overall, and by each site. Show diagnosis names and the counts in descending order of frequency
 
