@@ -1,5 +1,4 @@
-This repository contains the solution to the Assessment Provided for the position of 
-<b>Associate Data Science Analyst at Mayo Clinic</b>.
+This repository contains the analysis of patient information using SQL and also performs some Exploratory Data Analysis.
 
 Following is the description of each file -
 
